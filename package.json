@@ -15,5 +15,6 @@
     "url": "git+https://github.com/isaacs/spawn-log.git"
   },
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
-  "license": "ISC"
+  "license": "ISC",
+  "files": [ "blerg.js", "log-node-processes.js" ]
 }
