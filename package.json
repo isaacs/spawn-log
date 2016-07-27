@@ -1,0 +1,18 @@
+{
+  "name": "spawn-log",
+  "version": "1.0.0",
+  "description": "Log all the node processes that get spawned",
+  "dependencies": {
+    "spawn-wrap": "^1.2.4"
+  },
+  "scripts": {
+    "test": "./log-node-processes.js node blerg.js"
+  },
+  "bin": "log-node-processes.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacs/spawn-log.git"
+  },
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "license": "ISC"
+}
