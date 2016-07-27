@@ -1,6 +1,6 @@
 {
   "name": "spawn-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Log all the node processes that get spawned",
   "dependencies": {
     "spawn-wrap": "^1.2.4"
